@@ -171,17 +171,6 @@ Pour tester une activité :
 
 ---
 
-## 📄 Rapports
-
-Les comptes rendus détaillent les objectifs, la réalisation et les résultats des activités.
-
-| Document          | Accès                                           |
-| ----------------- | ----------------------------------------------- |
-| Compte rendu A1.1 | [📥 Consulter le PDF](reports/DAR tp1 a1.pdf)   |
-| Compte rendu A1.2 | [📥 Consulter le PDF](reports/DAR tp1 a1.2.pdf) |
-| Compte rendu A1.3 | [📥 Consulter le PDF](reports/DAR tp1 a1.3.pdf) |
-
----
 
 ## 👩‍💻 Auteur
 
