@@ -55,19 +55,19 @@ L'objectif principal est de découvrir la communication entre applications à tr
       <td><strong>A1.1</strong></td>
       <td>Communication TCP de base entre un client et un serveur.</td>
       <td><a href="act1/">📂 Consulter</a></td>
-      <td><a href="reports/DAR tp1 a1.1.pdf">📄 PDF</a></td>
+      <td><a href="reports/DAR%20tp1%20a1.pdf">📄 PDF</a></td>
     </tr>
     <tr>
       <td><strong>A1.2</strong></td>
       <td>Service de multiplication : le serveur calcule le produit d'un entier par 5.</td>
       <td><a href="act2/">📂 Consulter</a></td>
-      <td><a href="reports/DAR tp1 a1.2.pdf">📄 PDF</a></td>
+      <td><a href="reports/DAR%20tp1%20a1.2.pdf">📄 PDF</a></td>
     </tr>
     <tr>
       <td><strong>A1.3</strong></td>
       <td>Calculatrice en réseau prenant en charge l'addition, la soustraction, la multiplication et la division.</td>
       <td><a href="act3/">📂 Consulter</a></td>
-      <td><a href="reports/DAR tp1 a1.3.pdf">📄 PDF</a></td>
+      <td><a href="reports/DAR%20tp1%20a1.3.pdf">📄 PDF</a></td>
     </tr>
   </tbody>
 </table>
@@ -148,9 +148,9 @@ TP1-DAR2026/
 │           └── ServeurCalculatrice.java
 │
 ├── reports/
-│   ├── Compte-rendu-A1.1.pdf
-│   ├── Compte-rendu-A1.2.pdf
-│   └── Compte-rendu-A1.3.pdf
+│   ├── DAR tp1 a1.pdf
+│   ├── DAR tp1 a1.2.pdf
+│   └── DAR tp1 a1.3.pdf
 │
 └── README.md
 ```
@@ -175,11 +175,11 @@ Pour tester une activité :
 
 Les comptes rendus détaillent les objectifs, la réalisation et les résultats des activités.
 
-| Document          | Accès                                                |
-| ----------------- | ---------------------------------------------------- |
-| Compte rendu A1.1 | [📥 Consulter le PDF](reports/Compte-rendu-A1.1.pdf) |
-| Compte rendu A1.2 | [📥 Consulter le PDF](reports/Compte-rendu-A1.2.pdf) |
-| Compte rendu A1.3 | [📥 Consulter le PDF](reports/Compte-rendu-A1.3.pdf) |
+| Document          | Accès                                           |
+| ----------------- | ----------------------------------------------- |
+| Compte rendu A1.1 | [📥 Consulter le PDF](reports/DAR tp1 a1.pdf)   |
+| Compte rendu A1.2 | [📥 Consulter le PDF](reports/DAR tp1 a1.2.pdf) |
+| Compte rendu A1.3 | [📥 Consulter le PDF](reports/DAR tp1 a1.3.pdf) |
 
 ---
 
